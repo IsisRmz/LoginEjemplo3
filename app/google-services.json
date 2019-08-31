@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "625687785642",
+    "firebase_url": "https://loginejemplo-73377.firebaseio.com",
+    "project_id": "loginejemplo-73377",
+    "storage_bucket": "loginejemplo-73377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625687785642:android:d12b5adf6f304370",
+        "android_client_info": {
+          "package_name": "com.example.chani.loginejemplo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625687785642-8l92gln5k1gf767ahtrv461r1bvhksph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chani.loginejemplo",
+            "certificate_hash": "15d7602f12878c24d5fbb6a4e931822f0c4c1e93"
+          }
+        },
+        {
+          "client_id": "625687785642-i4uhti5jv5ktvk6l48t8bflfk38i8mj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFwaxxO6avKKHAkf1YoMBpd7ZGGXYbMQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625687785642-i4uhti5jv5ktvk6l48t8bflfk38i8mj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
